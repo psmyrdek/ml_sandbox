@@ -1,3 +1,0 @@
-[submodule "frontend/mnist-canvas"]
-	path = frontend/mnist-canvas
-	url = git@hf.co:spaces/psmyrdek/mnist-canvas
